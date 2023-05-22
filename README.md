@@ -1,6 +1,6 @@
 # Description
 
-A public personal website of [kazakov.xyz](https://kazakov.xyz) based on [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
+A public personal website of [ruanviljoen.com](https://ruanviljoen.com) based on the [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
 
 This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
@@ -15,5 +15,5 @@ This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 Read more about config.toml for this theme: [configurations](https://github.com/luizdepra/hugo-coder/blob/main/docs/configurations.md)
 
-Guide: [Deploy Your Personal Web-Page With Hugo, Cloudflare and GitHub 100% For Free](https://hackernoon.com/deploy-your-personal-web-page-with-hugo-cloudflare-and-github-100percent-for-free)
+Many thanks to [Kirill Kazakov](https://kazakov.xyz) for his excellent guide to configuring a personal site. The full guide is here: [Deploy Your Personal Web-Page With Hugo, Cloudflare and GitHub 100% For Free](https://hackernoon.com/deploy-your-personal-web-page-with-hugo-cloudflare-and-github-100percent-for-free)
 
